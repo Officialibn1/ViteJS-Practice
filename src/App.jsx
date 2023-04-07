@@ -1,9 +1,14 @@
+import { 
+  AppBar,
+  Typography
+} from "@mui/material";
+
 
 function App() {
 
   return (
     <div>
-      <h1>Hello Vite</h1>
+      <Typography variant="h1">Hello Vite!</Typography>
     </div>
   )
 }
