@@ -1,16 +1,11 @@
-import { 
-  AppBar,
-  Typography
-} from "@mui/material";
 
 
-function App() {
+const App = () => {
 
-  return (
-    <div>
-      <Typography variant="h1">Hello Vite!</Typography>
-    </div>
-  )
+
+    return (
+        <h1>MUI Sucks 😑</h1>
+    );
 }
 
-export default App
+export default App;
